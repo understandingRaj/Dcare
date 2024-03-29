@@ -5,8 +5,8 @@ This project deals with the Corporate Medicare Management. This project is very 
 stored data efficiently, not only the clinical data, in order to improve diagnoses and treatments, but also on management, in order to minimize costs and improve the care given to the patients. 
 
 **All WEBSITE PAGES FILES ARE IN WEBCONTENT FOLDER**
-In this website we used technology:
 
+In this website we used technology:
 
 **In Frontend :** 
      HTML ,CSS ,Javascript, BootStrap and Jquery;
