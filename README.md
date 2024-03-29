@@ -4,7 +4,7 @@ Dcare is basically a **Hospital Management System Webiste** .
 This project deals with the Corporate Medicare Management. This project is very helpful to both Medicare staff as well as to the public. It is having mainly Administration and Client modules. The growing quality demand in the hospital sector makes it necessary to exploit the whole potential of 
 stored data efficiently, not only the clinical data, in order to improve diagnoses and treatments, but also on management, in order to minimize costs and improve the care given to the patients. 
 
-
+**All WEBSIT PAGES FILES ARE IN WEBCONTENT FOLDER**
 In this website we used technology:
 
 
