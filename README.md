@@ -24,6 +24,7 @@ This Project Contains **3 tables** in MySql
 
 1. Contact
    mysql> desc contact;
+   
 +---------+-------------+------+-----+---------+-------+
 | Field   | Type        | Null | Key | Default | Extra |
 +---------+-------------+------+-----+---------+-------+
@@ -34,7 +35,7 @@ This Project Contains **3 tables** in MySql
 +---------+-------------+------+-----+---------+-------+
 
 
-2. apoint
+3. apoint
    mysql> desc apoint;
 +-----------+-------------+------+-----+---------+-------+
 | Field     | Type        | Null | Key | Default | Extra |
@@ -49,7 +50,7 @@ This Project Contains **3 tables** in MySql
 +-----------+-------------+------+-----+---------+-------+
 
 
-3. apointment
+4. apointment
    mysql> desc apointment;
 +----------+-------------+------+-----+---------+-------+
 | Field    | Type        | Null | Key | Default | Extra |
