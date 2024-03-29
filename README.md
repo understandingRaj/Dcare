@@ -6,6 +6,18 @@ stored data efficiently, not only the clinical data, in order to improve diagnos
 
 **NOTE : All WEBSITE PAGES FILES ARE IN WEBCONTENT FOLDER**
 
+Some Website ScreenShots
+
+![image](https://github.com/understandingRaj/Dcare/assets/146615871/4449ef9c-0f18-4c30-b1b7-924b11a296fe)
+
+![image](https://github.com/understandingRaj/Dcare/assets/146615871/9a3924ef-456b-4b58-b79c-fe39353b898d)
+
+![image](https://github.com/understandingRaj/Dcare/assets/146615871/d3fb6dfb-8434-458a-af75-2397d754e7f4)
+
+![image](https://github.com/understandingRaj/Dcare/assets/146615871/460038fb-455d-49ea-b0a2-453a44b152e6)
+
+![image](https://github.com/understandingRaj/Dcare/assets/146615871/8ea31beb-2785-4ee1-93de-79d2c7caf57d)
+
 In this website we used technology:
 
 **In Frontend :** 
