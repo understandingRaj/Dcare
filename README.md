@@ -21,6 +21,44 @@ In this website we used technology:
 
 
 This Project Contains **3 tables** in MySql 
+
 1. Contact
+   mysql> desc contact;
++---------+-------------+------+-----+---------+-------+
+| Field   | Type        | Null | Key | Default | Extra |
++---------+-------------+------+-----+---------+-------+
+| name    | varchar(23) | YES  |     | NULL    |       |
+| email   | varchar(23) | YES  |     | NULL    |       |
+| subject | varchar(23) | YES  |     | NULL    |       |
+| message | varchar(23) | YES  |     | NULL    |       |
++---------+-------------+------+-----+---------+-------+
+
+
 2. apoint
+   mysql> desc apoint;
++-----------+-------------+------+-----+---------+-------+
+| Field     | Type        | Null | Key | Default | Extra |
++-----------+-------------+------+-----+---------+-------+
+| fname     | varchar(23) | YES  |     | NULL    |       |
+| lname     | varchar(23) | YES  |     | NULL    |       |
+| selectopt | varchar(23) | YES  |     | NULL    |       |
+| phone     | varchar(23) | YES  |     | NULL    |       |
+| date      | varchar(23) | YES  |     | NULL    |       |
+| time      | varchar(23) | YES  |     | NULL    |       |
+| message   | varchar(23) | YES  |     | NULL    |       |
++-----------+-------------+------+-----+---------+-------+
+
+
 3. apointment
+   mysql> desc apointment;
++----------+-------------+------+-----+---------+-------+
+| Field    | Type        | Null | Key | Default | Extra |
++----------+-------------+------+-----+---------+-------+
+| name     | varchar(45) | YES  |     | NULL    |       |
+| dob      | varchar(45) | YES  |     | NULL    |       |
+| address  | varchar(45) | YES  |     | NULL    |       |
+| gender   | varchar(45) | YES  |     | NULL    |       |
+| contact  | int         | YES  |     | NULL    |       |
+| email    | varchar(45) | YES  |     | NULL    |       |
+| password | varchar(45) | YES  |     | NULL    |       |
++----------+-------------+------+-----+---------+-------+
